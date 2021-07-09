@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Twitter Data Ingestion with Apache Nifi](README.md)
+* [Initial page](README.md)
 
